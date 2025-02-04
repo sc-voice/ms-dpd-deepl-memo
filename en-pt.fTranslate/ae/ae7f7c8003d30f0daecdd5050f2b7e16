@@ -1,0 +1,12 @@
+{
+  "isPromise": true,
+  "volume": "en-pt.fTranslate",
+  "args": [
+    [
+      "learning; study; art; science"
+    ]
+  ],
+  "value": [
+    "aprendizagem; estudo; arte; ciência"
+  ]
+}
